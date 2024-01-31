@@ -1,19 +1,16 @@
 {
   "bar_slider_imgs": [
     {
-      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/d021fc22a3075177931a54f3c564cb953674b3e4/bar_slider_07.jpg"
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_01.jpg?raw=true"
     },
     {
       "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_02.jpg?raw=true"
     },
     {
-      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/d021fc22a3075177931a54f3c564cb953674b3e4/bar_slider_08.jpg"
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_03.jpg?raw=true"
     },
     {
       "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_04.jpg?raw=true"
-    },
-    {
-      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/d021fc22a3075177931a54f3c564cb953674b3e4/bar_slider_09.jpg"
     },
     {
       "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_05.jpg?raw=true"
@@ -27,22 +24,13 @@
       "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_02.jpg?raw=true"
     },
     {
-      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_03.jpg?raw=true"
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_08.jpg?raw=true"
     },
     {
       "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/3db3eb8a2cbfd0e7169dbf84e62d1d484f46e0c4/double_slider_02.jpg"
     },
     {
       "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_05.jpg?raw=true"
-    },
-    {
-      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_06.jpg?raw=true"
-    },
-    {
-      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_07.jpg?raw=true"
-    },
-    {
-      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_08.jpg?raw=true"
     }
   ],
   "quick_contacts": [
@@ -308,36 +296,6 @@
         },
         {
           "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_09.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_10.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_11.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_12.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_13.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_14.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_15.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_16.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_17.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_18.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_19.jpg?raw=true"
         }
       ]
     },
@@ -387,7 +345,7 @@
       ],
       "slider": [
         {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_01.jpg?raw=true"
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_08.jpg?raw=true"
         },
         {
           "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_02.jpg?raw=true"
@@ -396,22 +354,10 @@
           "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_03.jpg?raw=true"
         },
         {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_04.jpg?raw=true"
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_09.jpg?raw=true"
         },
         {
           "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_05.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_06.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_07.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_08.jpg?raw=true"
-        },
-        {
-          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_09.jpg?raw=true"
         },
         {
           "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_10.jpg?raw=true"
